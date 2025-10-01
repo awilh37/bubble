@@ -617,7 +617,7 @@ var D = new (function () {
     this.D = null;
     this.loaded = !1;
     try {
-      (document.domain = "awilh37.github.io"),
+      (document.domain = "kodub.com"),
         window.parent.kongregateAPI
           ? window.parent.kongregateAPI.loadAPI(function () {
               e.loaded = !0;
