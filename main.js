@@ -955,7 +955,7 @@ var ba = new (function () {
             ? 120 * r.j + "px Sadana"
             : 150 * r.j + "px Sadana"),
         a.fillText(
-          "awilh/onyx</br>Bubbles",
+          "Bubble",
           a.canvas.width / 2,
           a.canvas.height / 4 - 40 * r.j
         ),
